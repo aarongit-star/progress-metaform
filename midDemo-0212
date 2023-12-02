@@ -1,0 +1,5 @@
+Devopsteam 
+
+In progress: provide AWS resources to set up CICD pipeline to be automatically triggered by backend on Metaform Bitbucket Repo
+Done: finished terraform code for frontend code/ used Jenkins to update static content into AWS s3 bucket
+To do: Write dockerfile for actual backend code/Set up Jenkins pipeline to deploy terraform to cloud/Integrate sonarqube code analysis to backend pipeline
